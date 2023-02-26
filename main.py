@@ -8,7 +8,7 @@ import googleapiclient.discovery
 import telepot
 
 def change_title_content(content):
-  video_id = "Define your video here"
+  video_id = "Define your video id here"
   with open('secret.json') as json_file: secret = json.load(json_file)
   credentials = google.oauth2.credentials.Credentials(**secret)
   youtube = googleapiclient.discovery.build(
