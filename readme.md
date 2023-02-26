@@ -6,7 +6,7 @@
 
 Hi fellow people! My name is Ojas Surana and I am keen to be pursuing the SUTD STEP Programme. I am also keen to be pursuing a major in CSD. Inspired by the MIT Maker Portfolio, here's my own video to showcase some cool things I have made.
 
-At the end of the video, I made a mini "capstone project" whereby if you message my Telegram bot: https://t.me/ojastech_bot something, it automatically changes the description of my Youtube video! Do try out messaging my bot and the Youtube video description change!
+**At the end of the video, I made a mini "capstone project" whereby if you message my Telegram bot: https://t.me/ojastech_bot something, it automatically changes the description of my Youtube video! Do try out messaging my bot and watch Youtube video description change!**
 
 ## The Components:
 
