@@ -1,5 +1,0 @@
-google-auth-oauthlib==0.4.6
-google-auth==2.5.1
-google-api-python-client==2.18.0
-requests==2.26.0
-telepot==12.7
